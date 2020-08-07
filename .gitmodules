@@ -1,0 +1,3 @@
+[submodule "sh01"]
+	path = sh01
+	url = https://github.com/momotarou1090/goodjob.git
